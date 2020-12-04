@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\PlanetsFridayOOP\PlanetsFridayOOP\bin\Debug\netcoreapp3.1\PlanetsFridayOOP.exe
+C:\Users\opilane\source\repos\PlanetsFridayOOP\PlanetsFridayOOP\bin\Debug\netcoreapp3.1\PlanetsFridayOOP.deps.json
+C:\Users\opilane\source\repos\PlanetsFridayOOP\PlanetsFridayOOP\bin\Debug\netcoreapp3.1\PlanetsFridayOOP.runtimeconfig.json
+C:\Users\opilane\source\repos\PlanetsFridayOOP\PlanetsFridayOOP\bin\Debug\netcoreapp3.1\PlanetsFridayOOP.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\PlanetsFridayOOP\PlanetsFridayOOP\bin\Debug\netcoreapp3.1\PlanetsFridayOOP.dll
+C:\Users\opilane\source\repos\PlanetsFridayOOP\PlanetsFridayOOP\bin\Debug\netcoreapp3.1\PlanetsFridayOOP.pdb
+C:\Users\opilane\source\repos\PlanetsFridayOOP\PlanetsFridayOOP\obj\Debug\netcoreapp3.1\PlanetsFridayOOP.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\PlanetsFridayOOP\PlanetsFridayOOP\obj\Debug\netcoreapp3.1\PlanetsFridayOOP.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\PlanetsFridayOOP\PlanetsFridayOOP\obj\Debug\netcoreapp3.1\PlanetsFridayOOP.AssemblyInfo.cs
+C:\Users\opilane\source\repos\PlanetsFridayOOP\PlanetsFridayOOP\obj\Debug\netcoreapp3.1\PlanetsFridayOOP.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\PlanetsFridayOOP\PlanetsFridayOOP\obj\Debug\netcoreapp3.1\PlanetsFridayOOP.dll
+C:\Users\opilane\source\repos\PlanetsFridayOOP\PlanetsFridayOOP\obj\Debug\netcoreapp3.1\PlanetsFridayOOP.pdb
+C:\Users\opilane\source\repos\PlanetsFridayOOP\PlanetsFridayOOP\obj\Debug\netcoreapp3.1\PlanetsFridayOOP.genruntimeconfig.cache

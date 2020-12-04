@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\PlanetsFridayOOP\InnerAndOuterPlanets\bin\Debug\netcoreapp3.1\InnerAndOuterPlanets.exe
+C:\Users\opilane\source\repos\PlanetsFridayOOP\InnerAndOuterPlanets\bin\Debug\netcoreapp3.1\InnerAndOuterPlanets.deps.json
+C:\Users\opilane\source\repos\PlanetsFridayOOP\InnerAndOuterPlanets\bin\Debug\netcoreapp3.1\InnerAndOuterPlanets.runtimeconfig.json
+C:\Users\opilane\source\repos\PlanetsFridayOOP\InnerAndOuterPlanets\bin\Debug\netcoreapp3.1\InnerAndOuterPlanets.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\PlanetsFridayOOP\InnerAndOuterPlanets\bin\Debug\netcoreapp3.1\InnerAndOuterPlanets.dll
+C:\Users\opilane\source\repos\PlanetsFridayOOP\InnerAndOuterPlanets\bin\Debug\netcoreapp3.1\InnerAndOuterPlanets.pdb
+C:\Users\opilane\source\repos\PlanetsFridayOOP\InnerAndOuterPlanets\obj\Debug\netcoreapp3.1\InnerAndOuterPlanets.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\PlanetsFridayOOP\InnerAndOuterPlanets\obj\Debug\netcoreapp3.1\InnerAndOuterPlanets.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\PlanetsFridayOOP\InnerAndOuterPlanets\obj\Debug\netcoreapp3.1\InnerAndOuterPlanets.AssemblyInfo.cs
+C:\Users\opilane\source\repos\PlanetsFridayOOP\InnerAndOuterPlanets\obj\Debug\netcoreapp3.1\InnerAndOuterPlanets.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\PlanetsFridayOOP\InnerAndOuterPlanets\obj\Debug\netcoreapp3.1\InnerAndOuterPlanets.dll
+C:\Users\opilane\source\repos\PlanetsFridayOOP\InnerAndOuterPlanets\obj\Debug\netcoreapp3.1\InnerAndOuterPlanets.pdb
+C:\Users\opilane\source\repos\PlanetsFridayOOP\InnerAndOuterPlanets\obj\Debug\netcoreapp3.1\InnerAndOuterPlanets.genruntimeconfig.cache

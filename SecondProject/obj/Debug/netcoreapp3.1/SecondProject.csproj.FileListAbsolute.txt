@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\PlanetsFridayOOP\SecondProject\bin\Debug\netcoreapp3.1\SecondProject.exe
+C:\Users\opilane\source\repos\PlanetsFridayOOP\SecondProject\bin\Debug\netcoreapp3.1\SecondProject.deps.json
+C:\Users\opilane\source\repos\PlanetsFridayOOP\SecondProject\bin\Debug\netcoreapp3.1\SecondProject.runtimeconfig.json
+C:\Users\opilane\source\repos\PlanetsFridayOOP\SecondProject\bin\Debug\netcoreapp3.1\SecondProject.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\PlanetsFridayOOP\SecondProject\bin\Debug\netcoreapp3.1\SecondProject.dll
+C:\Users\opilane\source\repos\PlanetsFridayOOP\SecondProject\bin\Debug\netcoreapp3.1\SecondProject.pdb
+C:\Users\opilane\source\repos\PlanetsFridayOOP\SecondProject\obj\Debug\netcoreapp3.1\SecondProject.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\PlanetsFridayOOP\SecondProject\obj\Debug\netcoreapp3.1\SecondProject.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\PlanetsFridayOOP\SecondProject\obj\Debug\netcoreapp3.1\SecondProject.AssemblyInfo.cs
+C:\Users\opilane\source\repos\PlanetsFridayOOP\SecondProject\obj\Debug\netcoreapp3.1\SecondProject.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\PlanetsFridayOOP\SecondProject\obj\Debug\netcoreapp3.1\SecondProject.dll
+C:\Users\opilane\source\repos\PlanetsFridayOOP\SecondProject\obj\Debug\netcoreapp3.1\SecondProject.pdb
+C:\Users\opilane\source\repos\PlanetsFridayOOP\SecondProject\obj\Debug\netcoreapp3.1\SecondProject.genruntimeconfig.cache
